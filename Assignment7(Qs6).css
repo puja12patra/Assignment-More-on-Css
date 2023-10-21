@@ -1,0 +1,19 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap");
+.outer{
+    border: 2px solid black;
+    height: 50%;
+    width:80%;
+    padding: 50px;
+    text-align: center;
+   
+}
+ .outer h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    }
+  .paraSec  p {
+    font-family: "Poppins", sans-serif;
+   
+    }

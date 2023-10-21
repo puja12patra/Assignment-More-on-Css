@@ -1,0 +1,48 @@
+.navbar{
+    background-color: rgb(115, 115, 243);
+    padding:20px;
+    
+}
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+.navbar li{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+}
+
+.navbar li a{
+    color: white;
+   padding: 15px;
+}
+
+
+.navbar li:nth-child(1) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
+.navbar li:nth-child(2) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px dotted #1aa82d;
+}
+.navbar li:nth-child(3) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px dashed #3e1abe;
+}
+.navbar li:nth-child(4) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px double yellow;
+}
+.navbar li:nth-child(5) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px groove magenta;
+}
